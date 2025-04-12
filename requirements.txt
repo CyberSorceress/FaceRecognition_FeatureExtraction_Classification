@@ -1,6 +1,6 @@
-scikit-learn
-scikit-image
-matplotlib
+kagglehub
 tensorflow
-keras
+scikit-learn
+matplotlib
 numpy
+opencv-python
